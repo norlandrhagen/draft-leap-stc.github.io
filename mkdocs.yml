@@ -31,7 +31,6 @@ nav:
           - Access via VSCode: compute/vs_code_to_hub.md
       - Using dask to scale computation: 
           - compute/dask.md
-          - compute/dask-tips.md
       - compute/compute_scaling.md
       - compute/manage_software.md
       
